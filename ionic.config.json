@@ -1,0 +1,12 @@
+{
+  "name": "ionic-oracle",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "xwalk_hosts": [
+    "http://*/",
+    "https://*/"
+  ]
+}
